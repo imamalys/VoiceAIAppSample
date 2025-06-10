@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VoiceAIAppSample</string>
+    <string name="please_check_network_connection">Please check your network connection</string>
+    <string name="app_desc">an intelligent assistant designed to enhance productivity, creativity, and problem-solving. Using advanced AI, it understands natural language, generates insights, and automates tasks to make your life smarter and more efficient.</string>
+</resources>
